@@ -1,2 +1,2 @@
-# Generator
-A grammar based generator of generator and parser
+# Générateur grammatical
+Un générateur de générateur et de parseur basé sur une grammaire
