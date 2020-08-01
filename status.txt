@@ -1,0 +1,5 @@
+Projet actuellement en pause
+
+Reprendre en main tous les fichiers (Markdown, source Python) avant de continuer
+
+Utiliser une bibliothèque pour le lexer et le parser
