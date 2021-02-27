@@ -3,7 +3,13 @@ Genex est un générateur de générateur et de parseur orienté selon une gramm
 
 Le projet est actuellement en cours de développement...
 
-[TOC]
+* [Genex](#genex)
+    * [Présentation](#présentation)
+    * [Récursivité](#récursivité)
+    * [Fonctionnement](#fonctionnement)
+    * [Technique](#technique)
+
+<!-- table of contents created by Adrian Bonnet, see https://github.com/Relex12/Markdown-Table-of-Contents for more -->
 
 ## Présentation
 
@@ -32,3 +38,17 @@ C'est ce dictionnaire qui sera parcouru pour générer des dérivations de l'axi
 Genex est un projet réalisé en Python. Les graphes sont représentés sous la forme de dictionnaires.
 
 Pour la réalisation des analyses lexicales et syntaxiques, les outils PLY ou SLY seront peut-être utilisés.
+* [Genex](#genex)
+    * [Présentation](#présentation)
+    * [Récursivité](#récursivité)
+    * [Fonctionnement](#fonctionnement)
+    * [Technique](#technique)
+
+<!-- table of contents created by Adrian Bonnet, see https://github.com/Relex12/Markdown-Table-of-Contents for more -->
+* [Genex](#genex)
+    * [Présentation](#présentation)
+    * [Récursivité](#récursivité)
+    * [Fonctionnement](#fonctionnement)
+    * [Technique](#technique)
+
+<!-- table of contents created by Adrian Bonnet, see https://github.com/Relex12/Markdown-Table-of-Contents for more -->
